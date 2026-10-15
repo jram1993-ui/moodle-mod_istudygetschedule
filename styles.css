@@ -1,0 +1,68 @@
+body {
+	font-family: Arial;
+	print-color-adjust:exact;
+}
+
+/* Table Settings */
+html {
+	margin:0 auto;
+	width: auto;
+}
+table.table1 {
+	margin:0 auto;
+	border-collapse: collapse;
+	border: 1px solid #FFFFFF;
+}
+table.table1 th {
+	font-size: 100%;
+	text-align: center;
+	background-color: #DCDCDC;
+}
+table.table1 td {
+	font-size: 90%;
+	text-align: center;
+}
+table.table2 {
+	margin:0 auto;
+	border-collapse: collapse;
+	margin-bottom: 30px;
+}
+table.table2 td {
+	border: 1px solid #808080;
+	font-size: 70%;
+	text-align: center;
+}
+table.table2 th {
+	border: 1px solid #808080;
+	border-bottom: 2px solid #808080;
+  	font-size: 90%;
+	text-align: center;
+	background-color: #DCDCDC;	
+}
+
+h1 {
+  font-size: 110%;
+  text-align: center;
+  text-decoration: underline;
+}
+h2 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 75%;
+  margin-top: 1px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+h3 {
+  font-size: 80%;
+  text-align: left;
+}
+h4 {
+  font-size: 85%;
+  margin-bottom: 1px;
+  text-decoration: underline;
+}
+p {
+  font-size: 80%;
+  text-align: center;
+}

@@ -1,0 +1,42 @@
+body {
+	font-family: Arial;
+}
+
+/* Table Settings */
+html {
+	margin:0 auto;
+	width: auto;
+}
+h1 {
+  font-weight: bold;
+  font-size: 50%;
+  text-align: left;
+}
+h2 {
+  font-size: 50%;
+  text-align: left;
+}
+h3 {
+  font-style: italic;
+  font-size: 80%;
+  text-align: left;
+}
+h4 {
+  font-weight: bold;
+  font-size: 100%;
+  text-align: center;
+}
+h5 {
+  font-size: 95%;
+  text-align: center;
+  text-decoration: underline;
+}
+h6 {
+  font-size: 85%;
+  text-align: center;
+}
+p {
+  font-size: 75%;
+  text-align: center;
+  font-style: italic;
+}
